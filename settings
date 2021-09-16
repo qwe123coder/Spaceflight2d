@@ -1,0 +1,21 @@
+Sound Volume
+	Music: 4
+	Effects: 6
+Keys
+	Up: 1073741906
+	Left: 1073741904
+	Right: 1073741903
+	Fire: 32
+	Launch: 108
+	Build: 98
+	Repair: 114
+	Fill: 102
+	Pause: 112
+	ZoomOut: 122
+	ZoomIn: 97
+	Drop: 100
+	Map: 109
+	ExVis: 101
+Screen
+	Mode: Windowed
+	Size: 640x480
