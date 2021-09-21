@@ -1,11 +1,4 @@
-#ADV-MENU 1.2.1
-#(C) 2008 Robin Wellner
-#Part of SpaceFlight2D
-#
-#SpaceFlight2D is free software: you can redistribute it and/or modify
-#it under the terms of the GNU General Public License as published by
-#the Free Software Foundation, either version 3 of the License, or
-#(at your option) any later version.
+
 
 import pygame
 from pygame.locals import *
