@@ -1,3 +1,5 @@
+import random
+from starrange import starrange
 class StarData(object):
     params = (
         random.random(),
