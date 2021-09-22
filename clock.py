@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> f0b146ee0b2ce745ace6a19a3ab07181f4e537bd
 
 from time import sleep, time
 
