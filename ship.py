@@ -1,3 +1,4 @@
+from math import sin, cos, radians
 class Ship(object):
     def __init__(self, X, Y, Angle, FaceAngle, Speed):
         self.X = X
