@@ -1,4 +1,3 @@
-from ship import Ship
 class ownShip(Ship):
     def __init__(self, X, Y, Angle, FaceAngle, Speed):
         Ship.__init__(self, X, Y, Angle, FaceAngle, Speed)
